@@ -5,7 +5,8 @@
 
 package assignment2;
 import java.util.Scanner;
-import java.util.*
+import java.util.*;
+Import java.util.Array;
 
 
 public class Operators {
